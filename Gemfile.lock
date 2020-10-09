@@ -37,7 +37,6 @@ GEM
     bson_ext (1.5.1)
     builder (3.2.3)
     codecov (0.2.6)
-	  colorize (>= 0)
       json
       simplecov
     coderay (1.1.1)
