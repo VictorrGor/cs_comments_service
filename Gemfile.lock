@@ -41,7 +41,7 @@ GEM
       json
       simplecov
     coderay (1.1.1)
-	colorize (0.8.1)
+    colorize (0.8.1)
     crack (0.4.3)
       safe_yaml (~> 1.0.0)
     dalli (2.7.6)
